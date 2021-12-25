@@ -1,4 +1,4 @@
-package Chapter2;
+package chapter2;
 
 // Fig. 2.1: Welcome1.java
 // Text-printing program.
