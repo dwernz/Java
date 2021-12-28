@@ -23,6 +23,6 @@ public class DrawLines extends Application {
 	
 	// application execution starts here
 	public static void main(String[] args) {
-		launch(args); // create a Drawlines object and call its start method
+		launch(args); // create a DrawLines object and call its start method
 	}
 }
