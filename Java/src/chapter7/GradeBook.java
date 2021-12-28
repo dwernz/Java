@@ -32,7 +32,7 @@ public class GradeBook {
 		System.out.printf("%nClass average is %.2f%n", getAverage());
 		
 		// call methods getMinimum and getMaximum
-		System.out.printf("Lowest grade is %d%nHighest grade is %d%n%n,",
+		System.out.printf("Lowest grade is %d%nHighest grade is %d%n%n",
 				getMinimum(), getMaximum());
 		
 		// call outputBarChart to print grade distribution chart
